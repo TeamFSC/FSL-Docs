@@ -3,12 +3,12 @@ layout: home
 
 hero:
   name: FSL Launcher
-  text: User Guide
-  tagline: A simple, fast, omnipotent Minecraft Launcher.<br>Supports launch, game download and more functions. Still developing.
+  text: 使用指南
+  tagline: 简易、快速、全能的Minecraft启动器，<br>支持启动、游戏下载等多种功能，持续开发中
   actions:
     - theme: brand
-      text: User Guide
-      link: /en/About/Mainpage
+      text: 使用文档
+      link: /About/Mainpage
     - theme: alt
       text: GitHub
       link: https://github.com/FutureStudios-FSC/FSL-Launcher
@@ -16,15 +16,15 @@ hero:
   image:
     src: /logo.png
     alt: FSL Logo
-
+    
   features:
   - icon: 🧀
-    title: Simple
-    details: There is no need for too much configuration, just set the basic options required for launch, and you can launch game with one click
+    title: 简易
+    details: 无需过多配置，只需设置启动所需的基础选项，即可一键启动
   - icon: 🚀
-    title: Fast
-    details: Launch Minecraft in the few seconds. Doesn't need to wait too much.
+    title: 快速
+    details: 数秒即可启动 Minecraft，无需过多等待
   - icon: 🎮
-    title: Omnipotent
-    details: Except of launch, it also can download game core or mod loader.
+    title: 全能
+    details: 除启动外，还支持下载核心和加载器！
 ---
