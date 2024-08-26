@@ -17,7 +17,7 @@ hero:
     src: /logo.png
     alt: FSL Logo
 
-  features:
+features:
   - icon: 🧀
     title: Simple
     details: There is no need for too much configuration, just set the basic options required for launch, and you can launch game with one click
