@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 
 export default defineConfig({
-  base: '/FSL-Docs/',
+  base: '/',
 
   lang: 'zh',
   title: 'FSL Launcher - 使用指南',
