@@ -17,7 +17,7 @@ hero:
     src: /logo.png
     alt: FSL Logo
     
-  features:
+features:
   - icon: 🧀
     title: 简易
     details: 无需过多配置，只需设置启动所需的基础选项，即可一键启动
